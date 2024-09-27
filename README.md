@@ -12,5 +12,5 @@ Please only modify below this line
 
 ![](animage.jpg)
 
-Tiger image from [wikimedia](https://commons.wikimedia.org/wiki/File:Tigerwater_edit2.jpg)) by BOB Jagendorf CC BY 2.0
+Tiger image from [wikimedia](https://commons.wikimedia.org/wiki/File:Tigerwater_edit2.jpg) by BOB Jagendorf CC BY 2.0
 
