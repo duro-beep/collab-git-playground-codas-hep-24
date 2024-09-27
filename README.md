@@ -9,3 +9,8 @@ Playground for participants of the 6th [CoDaS-HEP school](https://codas-hep.org/
 Please only modify below this line
 
 ---
+
+![](animage.jpg)
+
+Tiger image from [wikimedia](https://commons.wikimedia.org/wiki/File:Tigerwater_edit2.jpg)) by BOB Jagendorf CC BY 2.0
+
